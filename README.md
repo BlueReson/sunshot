@@ -1,9 +1,9 @@
 # sunshot
-Hour angle method via Skyfield Astro catalog in python
+Hour angle method via Skyfield Astro catalog in python, using the observed sun the time of the observation to get the azimuth Zn.
 
 Imput: 
 
-a. The lat lon location of the vessel
+a. The lat lon location of the vessel, or position
 
 b. Fixes of the suns angle with timestamps in utc
 
