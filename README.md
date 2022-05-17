@@ -1,4 +1,5 @@
 # sunshot
+re-calibrate a ships gyro compass heading by use of the sun. 
 Hour angle method via Skyfield Astro catalog in python, using the observed sun the time of the observation to get the azimuth Zn.
 
 Imput: 
